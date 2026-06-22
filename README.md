@@ -43,5 +43,5 @@ Este programa genera contraseñas aleatorias y criptográficamente seguras adapt
 ---
 
 ## 🎥 5. Enlaces de los Videos Explicativos
-* **Video 1 (Explicación del Diagrama en Raptor):** [PEGA AQUÍ EL LINK DE TU PRIMER VIDEO]
-* **Video 2 (Explicación y Demostración del Código en Python):** [PEGA AQUÍ EL LINK DE TU SEGUNDO VIDEO]
+* **Video 1 (Explicación del Diagrama en Raptor):https://bit.ly/4fVZPU7 
+* **Video 2 (Explicación y Demostración del Código en Python):https://bit.ly/4b3fhdA
