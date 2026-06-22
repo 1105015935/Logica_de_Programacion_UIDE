@@ -1,10 +1,11 @@
 # 🔒 Proyecto: Generador Seguro de Contraseñas
 
-## 👨‍🎓 Datos del Estudiante
+## 👨‍🎓 Datos
 * **Universidad:** Universidad Internacional del Ecuador (UIDE)
 * **Facultad:** Ingeniería en Ciberseguridad
 * **Asignatura:** Lógica de Programación
 * **Estudiante:** Rommel Isaías Enríquez Chamba
+* **Docente:** Mgs. Lilian Marlene Aman Ramos
 
 ---
 
