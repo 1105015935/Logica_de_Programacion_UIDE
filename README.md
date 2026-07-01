@@ -54,7 +54,7 @@ Este programa genera contraseñas aleatorias y criptográficamente seguras adapt
 🏆 TRABAJO FINAL (Proyecto Integrador)
 
 🎯 Objetivo
-Desarrollar un sistema profesional que integre las 4 unidades de la asignatura, 
+Desarrollar un sistema profesional que integre los contenidos de la asignatura, 
 con estructuras condicionales, repetitivas, listas, tuplas y diccionarios.
 
 ⚙️ Nuevas Funcionalidades
@@ -68,21 +68,23 @@ con estructuras condicionales, repetitivas, listas, tuplas y diccionarios.
 
 | Archivo | Descripción |
 |---|---|
-| `generador_contrasenas_uide.py` | Código final completo |
-| `Generador_contrasenas_UIDE_final.rap` | Diagrama Raptor final |
+| `generador_contrasenas_final_2.0_uide.py` | Código final completo |
+| `Diagrama_Final_Generador_contrasenas_UIDE_final.rap` | Diagrama Raptor final |
 | `Documento_Proyecto_UIDE_2026.pdf` | Documento académico |
+| `Video_Explicativo` | Video |
 
 🧠 Unidades Integradas
 
-| Unidad | Aplicación |
+| Ord | Aplicación |
 |---|---|
 | 1 | Tuplas globales y arquitectura modular |
 | 2 | if/elif/else y try/except |
 | 3 | while, for, listas, tuplas y diccionarios |
 | 4 | 10 funciones con docstrings y main() |
 
-🎥 Video Demostrativo
-**Video Final:** [PEGA AQUÍ EL ENLACE CUANDO LO TENGAS]
+**VIDEO + PDF ANEXOS MEDIANTE LINKS**
+**Video Final:** https://bit.ly/4v4VgdQ 
+**Documento PDF:** https://bit.ly/4ydM8Xo
 
 📅 Fecha de entrega
 30 de Junio 2026
