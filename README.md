@@ -51,7 +51,7 @@ Este programa genera contraseñas aleatorias y criptográficamente seguras adapt
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🏆 TRABAJO FINAL (Proyecto Integrador)
+🏆** TRABAJO FINAL (Proyecto Integrador)**
 
 🎯 Objetivo
 Desarrollar un sistema profesional que integre los contenidos de la asignatura, 
