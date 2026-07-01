@@ -46,3 +46,43 @@ Este programa genera contraseñas aleatorias y criptográficamente seguras adapt
 ## 🎥 5. Enlaces de los Videos Explicativos
 * **Video 1 (Explicación del Diagrama en Raptor):https://bit.ly/4fVZPU7 
 * **Video 2 (Explicación y Demostración del Código en Python):https://bit.ly/4b3fhdA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🏆 TRABAJO FINAL (Proyecto Integrador)
+
+🎯 Objetivo
+Desarrollar un sistema profesional que integre las 4 unidades de la asignatura, 
+con estructuras condicionales, repetitivas, listas, tuplas y diccionarios.
+
+⚙️ Nuevas Funcionalidades
+- Evaluador de fortaleza con puntaje sobre 100
+- Cálculo de entropía en bits
+- Historial de sesión con listas de diccionarios
+- Menú interactivo con 5 opciones
+- Módulo de consejos de seguridad
+
+📦 Archivos del Proyecto Final
+
+| Archivo | Descripción |
+|---|---|
+| `generador_contrasenas_uide.py` | Código final completo |
+| `Generador_contrasenas_UIDE_final.rap` | Diagrama Raptor final |
+| `Documento_Proyecto_UIDE_2026.pdf` | Documento académico |
+
+🧠 Unidades Integradas
+
+| Unidad | Aplicación |
+|---|---|
+| 1 | Tuplas globales y arquitectura modular |
+| 2 | if/elif/else y try/except |
+| 3 | while, for, listas, tuplas y diccionarios |
+| 4 | 10 funciones con docstrings y main() |
+
+🎥 Video Demostrativo
+**Video Final:** [PEGA AQUÍ EL ENLACE CUANDO LO TENGAS]
+
+📅 Fecha de entrega
+30 de Junio 2026
